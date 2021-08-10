@@ -1,4 +1,9 @@
 # Serving-Customer-Stats
+
+This program takes in two txt files and outputs a txt file with the answers to the inputed queries.
+The queries are related to how the time an employee takes to serve the inputed customers and the
+time spent ideal as well as the waiting time for each customer.
+
 Assumptions Used in Creating ServingCustomers
 1) The earliest a customer can start waiting in line is at 7:00:00 AM
 2) The latest a customer can start waiting in line is at 6:59:00 PM
