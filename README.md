@@ -1,8 +1,18 @@
 # Serving-Customer-Stats
 
-This program takes in two txt files and outputs a txt file with the answers to the inputed queries.
-The queries are related to how the time an employee takes to serve the inputed customers and the
+This program takes in two txt files (queries.txt and customer.txt) and outputs a txt file with the answers to the inputed queries.
+The queries are related to the time an employee takes to serve the inputed customers and the
 time spent ideal as well as the waiting time for each customer.
+
+Sample queries:
+- NUMBER-OF-CUSTOMERS-SERVED
+- LONGEST-BREAK-LENGTH
+- TOTAL-IDLE-TIME
+- MAXIMUM-NUMBER-OF-PEOPLE-IN-QUEUE-AT-ANY-TIME
+- WAITING-TIME-OF 1
+- WAITING-TIME-OF 2
+- WAITING-TIME-OF 3
+- WAITING-TIME-OF 7
 
 Assumptions Used in Creating ServingCustomers
 1) The earliest a customer can start waiting in line is at 7:00:00 AM
